@@ -15,3 +15,7 @@
 .borders {
     border: 3px solid black;
 }
+
+html {
+    scroll-behavior: smooth;
+}
